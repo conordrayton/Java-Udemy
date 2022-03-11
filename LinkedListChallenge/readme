@@ -1,0 +1,5 @@
+The linked list is created from scratch not a built-in java one.
+The abstract class contains 2 references to the next and previous items. 
+The MyLinkedList class implements the interface Nodelist. Nodelist makes use of the abstract class ListItem which is extended by the class Node.
+The MyLinkedList class contains methods to move items around the linked list. Such that the list is sorted alphabetically. These methods make use of binary search tree methods. 
+The main adds string data of Australian cities which is then added to the list.
