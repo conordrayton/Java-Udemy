@@ -1,2 +1,2 @@
 # Java-Udemy
-For resume purposes. After doing poorly in an intro Java/Object Oriented Programming course I spent the summer of 2020 learning Java through Udemy. No particular hard codes but display some of the topics I learned
+For resume purposes. After doing poorly in an intro Java/Object Oriented Programming course I spent the summer of 2020 learning Java through Udemy. No particular hard codes but display some of the topics I learned. From the Java Programming Masterclass which included topics on Classes, Constructors, Inheritance, Composition, Encapsulation, Polymorphism, Arrays, Autoboxing/Unboxing, Inner & Abstract classes & Interfaces, Generics.
